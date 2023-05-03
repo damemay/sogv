@@ -1,7 +1,7 @@
 # sogv
 SDL2/OpenGL/assimp base written in C that was supposed to be [vitaGL](https://github.com/Rinnegatamante/vitaGL) compatible *(and somewhat is)*.
 
-**Project abandoned and not refactored after deciding to move onto learning Vulkan.**
+**Project abandoned and not refactored after deciding to move onto learning Vulkan (hence archived).**
 
 Do not think of it as anything usable, but the source code may come in handy for someone when learning OpenGL/Graphics programming, especially in C.
 
