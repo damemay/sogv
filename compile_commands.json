@@ -1,0 +1,13 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Iinclude",
+      "-c",
+      "-fpic",
+      "src/sogv.c"
+    ],
+    "directory": "/home/mar/newgl/sogv",
+    "file": "/home/mar/newgl/sogv/src/sogv.c"
+  }
+]
